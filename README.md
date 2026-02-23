@@ -1,85 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a3c5e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0e1a,100:1a3c5e&height=200&section=header&text=Chetan%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# Chetan G
+<br/>
 
-**Data Engineer & ML Engineer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4488FF&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+scale.;Training+models+that+actually+work.;Shipping+systems+end+to+end.;CS+%40+SIUE+%7C+Graduating+Dec+2025)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chayvarmaa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chetanvarma.g17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chayvarmaa)
+<br/>
 
-*MS Industrial Engineering · SIUE · Graduating December 2025*
-*Actively seeking full-time Data Engineering & ML Engineering roles*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chayvarmaa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanvarma.g17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chayvarmaa)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chayvarmaa&color=4488ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### About
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I build data pipelines, train and deploy machine learning models, and ship
-production-ready systems. My background is in Industrial Engineering with a
-strong focus on software — every project in this portfolio was built from
-scratch to develop a specific engineering skill.
+### 👨‍💻 About Me
+```python
+chetan = {
+    "degree":     ["BS CS", "MS CS @ SIUE"],
+    "graduating": "December 2025",
+    "seeking":    ["Data Engineer", "ML Engineer"],
+    "location":   "Frederick, MD 🇺🇸",
+    "visa":       "F-1 OPT → Sponsorship Required",
+    "status":     "Building in public. Shipping daily.",
+    "philosophy": "Don't just learn tools. Build systems.",
+}
+```
 
-Currently on F-1 OPT status. Visa sponsorship required.
-
----
-
-### Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Python · SQL |
-| **ML & Data** | scikit-learn · pandas · numpy · DBSCAN · time series |
-| **Databases** | PostgreSQL · SQLite · psycopg2 |
-| **Frameworks** | Flask · FastAPI |
-| **Infrastructure** | Docker · docker-compose · Kubernetes (in progress) |
-| **APIs & Tools** | REST APIs · OAuth2 · APScheduler · Git |
+<br clear="right"/>
 
 ---
 
-### Featured Projects
+### 🛠 Tech Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [PotholeMap](https://github.com/chayvarmaa/pothole-map) | Crowdsourced road damage reporting system with DBSCAN spatial clustering and priority scoring for city officials | Flask · PostgreSQL · scikit-learn · Docker |
-| [FlightDeal](https://github.com/chayvarmaa/FlightDeal) | Automated flight price tracker with historical data storage, deal detection, and email alerts | Flask · PostgreSQL · Amadeus API |
-| [ExpiryBuddy](https://github.com/chayvarmaa/ExpiryBuddy) | Grocery receipt parser using OCR that tracks food expiry dates and sends automated alerts | Flask · pytesseract · PyPDF2 · SQLite |
-| [DebugDiary](https://github.com/chayvarmaa/debug-diary) | Bug tracking web application with pattern analytics and frustration metrics | Flask · SQLite |
-| [DeadLinkDetective](https://github.com/chayvarmaa/Dead-link-detective) | Multi-threaded website crawler that detects and reports broken links | Python · requests · BeautifulSoup |
-| [FileOrganizer](https://github.com/chayvarmaa/file-organizer) | Automated file organization system with rule-based sorting by type, date, and size | Python · pathlib |
-| [RoastMyCode](https://github.com/chayvarmaa/roast-my-code) | Code review tool that analyzes code quality and generates detailed feedback | Python · OpenAI API |
-| [MoodJournal](https://github.com/chayvarmaa/mood-journal) | CLI-based mood tracking system with trend visualization and streak detection | Python · SQLite · matplotlib |
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-### Currently Building
+### 🚀 What I Build
 
-- ML model training and serving pipeline with scikit-learn and FastAPI
-- Kubernetes deployments with minikube and Helm
-- MLflow experiment tracking and model registry
-- NLP classification pipeline with HuggingFace transformers
+> Every project below was built from scratch. No templates. No bootcamp clones.
+> Real systems solving real problems.
+
+<table>
+<tr>
+<td width="50%">
+
+**🗺 [PotholeMap](https://github.com/chayvarmaa/pothole-map)**
+> Crowdsourced road damage reporting with **DBSCAN spatial clustering**. Reports cluster into repair priority zones automatically. Built for city officials.
+>
+> `Flask` `PostgreSQL` `scikit-learn` `Docker` `Leaflet.js`
+
+</td>
+<td width="50%">
+
+**✈ [FlightDeal](https://github.com/chayvarmaa/FlightDeal)**
+> Live flight price tracker with **time series storage**, SQL window functions, moving average charts, and automated email alerts.
+>
+> `Flask` `PostgreSQL` `Amadeus API` `APScheduler`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🥬 [ExpiryBuddy](https://github.com/chayvarmaa/ExpiryBuddy)**
+> Reads grocery receipts using **OCR**, decodes store product codes, estimates shelf life for 100+ food categories, alerts before food expires.
+>
+> `Flask` `pytesseract` `PyPDF2` `SQLite` `smtplib`
+
+</td>
+<td width="50%">
+
+**🐛 [DebugDiary](https://github.com/chayvarmaa/debug-diary)**
+> Personal bug tracker with pattern analytics. Tracks time spent, frustration level, and bug type trends across projects.
+>
+> `Flask` `SQLite` `Jinja2`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔗 [DeadLinkDetective](https://github.com/chayvarmaa/Dead-link-detective)**
+> Multi-threaded website crawler that recursively detects broken links across entire domains. Generates detailed HTML reports.
+>
+> `Python` `requests` `BeautifulSoup` `threading`
+
+</td>
+<td width="50%">
+
+**😈 [RoastMyCode](https://github.com/chayvarmaa/roast-my-code)**
+> Paste your code and get brutally honest feedback. Analyzes quality, catches bugs, and suggests improvements.
+>
+> `Python` `OpenAI API` `CLI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Education
+### 📈 GitHub Stats
 
-**MS Industrial Engineering** — Southern Illinois University Edwardsville
-Graduating December 2025
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chayvarmaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayvarmaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chayvarmaa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
+### 🎯 Currently Building
+```
+✅ Data pipelines with PostgreSQL and pandas
+✅ Dockerized full-stack applications  
+✅ Geospatial ML with DBSCAN clustering
+🔄 ML model serving with FastAPI
+🔄 Kubernetes deployments with minikube  
+⏳ MLflow experiment tracking
+⏳ NLP pipeline with HuggingFace transformers
+⏳ End-to-end ML platform (capstone)
+```
+
+---
+
+### 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chayvarmaa&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 <div align="center">
 
-**Open to full-time Data Engineering and ML Engineering roles**
+### 💼 Open to Full-Time Opportunities
 
-Visa sponsorship required · Available immediately upon graduation
+**Data Engineering · ML Engineering · Software Engineering**
 
-[chetanvarma.g17@gmail.com](mailto:chetanvarma.g17@gmail.com)
+F-1 OPT Status · Visa Sponsorship Required · Available December 2025
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3c5e,100:0d1117&height=80&section=footer" width="100%"/>
+[![Email Me](https://img.shields.io/badge/Email%20Me-chetanvarma.g17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanvarma.g17@gmail.com)
+
+<br/>
+
+*"Don't just learn tools. Build systems."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3c5e,50:0a0e1a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
