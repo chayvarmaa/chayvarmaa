@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="360" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 ### 👨‍💻 About Me
 ```python
@@ -54,21 +54,21 @@ chetan = {
 
 **when the code finally works**
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/>
+<img src="https://media.tenor.com/bH3IbOJa_3YAAAAC/happy-celebration.gif" width="200"/>
 
 </td>
 <td align="center" width="33%">
 
 **me at 2am debugging**
 
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="200"/>
+<img src="https://media.tenor.com/VkXGLBPDtHEAAAAC/tired-sleepy.gif" width="200"/>
 
 </td>
 <td align="center" width="33%">
 
 **docker finally running**
 
-<img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="200"/>
+<img src="https://media.tenor.com/ZeHDGvbfXKAAAAAC/yes-celebrating.gif" width="200"/>
 
 </td>
 </tr>
@@ -77,21 +77,21 @@ chetan = {
 
 **interviewer: explain your code**
 
-<img src="https://media.giphy.com/media/SqmkZ5IdwzTP2/giphy.gif" width="200"/>
+<img src="https://media.tenor.com/oLIcMiKHQGkAAAAC/confused-thinking.gif" width="200"/>
 
 </td>
 <td align="center" width="33%">
 
 **ML model hits 95% accuracy**
 
-<img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif" width="200"/>
+<img src="https://media.tenor.com/8vmFDi7JNeMAAAAC/im-the-best-greatest.gif" width="200"/>
 
 </td>
 <td align="center" width="33%">
 
 **git push to main on friday**
 
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="200"/>
+<img src="https://media.tenor.com/4P3proto1HYAAAAC/running-away-fast.gif" width="200"/>
 
 </td>
 </tr>
@@ -217,21 +217,7 @@ chetan = {
 
 ---
 
-### 🎯 Currently Building
-```
-✅ Data pipelines with PostgreSQL and pandas
-✅ Dockerized full-stack applications
-✅ Geospatial ML with DBSCAN clustering
-🔄 ML model serving with FastAPI
-🔄 Kubernetes deployments with minikube
-⏳ MLflow experiment tracking
-⏳ NLP pipeline with HuggingFace transformers
-⏳ End-to-end ML platform (capstone)
-```
-
----
-
-### 😭 Developer Experience Table
+### 😭 Developer Experience
 
 <div align="center">
 
@@ -244,7 +230,6 @@ chetan = {
 | Code works first try | checks if it's actually running |
 | "Just one more feature" | 3 weeks later... |
 | git push to main | living dangerously |
-| Stack Overflow saves the day | copy paste and pray |
 
 </div>
 
@@ -252,7 +237,7 @@ chetan = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+<img src="https://media.tenor.com/oLIcMiKHQGkAAAAC/confused-thinking.gif" width="280"/>
 
 ### 💼 Open to Full-Time Opportunities
 
