@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4488FF&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+scale.;Training+models+that+actually+work.;Shipping+systems+end+to+end.;CS+%40+SIUE+%7C+Graduating+Dec+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4488FF&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+scale.;Training+models+that+actually+work.;Shipping+systems+end+to+end.;CS+%40+SIUE+%7C+Graduating+Dec+2025;80%25+working+20%25+sleeping+0%25+coping)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,22 +20,65 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👨‍💻 About Me
 ```python
 chetan = {
-    "degree":     ["BS CS", "MS CS @ SIUE"],
-    "graduating": "December 2025",
-    "seeking":    ["Data Engineer", "ML Engineer"],
-    "location":   "Frederick, MD 🇺🇸",
-    "visa":       "F-1 OPT → Sponsorship Required",
-    "status":     "Building in public. Shipping daily.",
-    "philosophy": "Don't just learn tools. Build systems.",
+    "degree":      ["BS CS", "MS CS @ SIUE"],
+    "graduating":  "December 2025",
+    "seeking":     ["Data Engineer", "ML Engineer"],
+    "location":    "Frederick, MD 🇺🇸",
+    "status":      "Building in public. Shipping daily.",
+    "philosophy":  "Don't just learn tools. Build systems.",
+    "model_stats": {
+        "accuracy":  "80% working",
+        "loss":      "20% sleeping",
+        "optimizer": "caffeine",
+        "epochs":    "still training...",
+    }
 }
 ```
 
 <br clear="right"/>
+
+---
+
+### 😂 Real Talk
+
+<div align="center">
+
+> **Me starting a new project:**
+>
+> ![meme1](https://i.imgflip.com/7zlofu.jpg)
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**When the Docker container finally works**
+
+![works](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
+
+</td>
+<td align="center" width="33%">
+
+**Me at 2am debugging SQL window functions**
+
+![debugging](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
+
+</td>
+<td align="center" width="33%">
+
+**When the ML model hits 95% accuracy**
+
+![celebration](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -70,8 +113,8 @@ chetan = {
 
 ### 🚀 What I Build
 
-> Every project below was built from scratch. No templates. No bootcamp clones.
-> Real systems solving real problems.
+> Every project below was built from scratch.
+> No templates. No bootcamp clones. Real systems solving real problems.
 
 <table>
 <tr>
@@ -143,7 +186,7 @@ chetan = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chayvarmaa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=chayvarmaa&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -152,10 +195,10 @@ chetan = {
 ### 🎯 Currently Building
 ```
 ✅ Data pipelines with PostgreSQL and pandas
-✅ Dockerized full-stack applications  
+✅ Dockerized full-stack applications
 ✅ Geospatial ML with DBSCAN clustering
 🔄 ML model serving with FastAPI
-🔄 Kubernetes deployments with minikube  
+🔄 Kubernetes deployments with minikube
 ⏳ MLflow experiment tracking
 ⏳ NLP pipeline with HuggingFace transformers
 ⏳ End-to-end ML platform (capstone)
@@ -169,19 +212,42 @@ chetan = {
 
 ---
 
+### 😭 The Developer Experience
+
+<div align="center">
+
+| Situation | Reality |
+|---|---|
+| Starting a project | "This will take 2 hours" |
+| 6 hours later | still setting up Docker |
+| Model accuracy: 50% | "It's basically a coin flip" |
+| Model accuracy: 95% | "I am a god" |
+| Production bug at 2am | *deletes entire repo* |
+| Code works first try | checks if it's actually running |
+| "Just add one more feature" | 3 weeks later... |
+| Git push to main | living dangerously |
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💼 Open to Full-Time Opportunities
 
 **Data Engineering · ML Engineering · Software Engineering**
 
-F-1 OPT Status · Visa Sponsorship Required · Available December 2025
+BS Computer Science · MS Computer Science @ SIUE · Graduating December 2025
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-chetanvarma.g17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanvarma.g17@gmail.com)
 
 <br/>
 
 *"Don't just learn tools. Build systems."*
+
+<br/>
+
+![bye](https://media.giphy.com/media/42D3CxaINsAFemFuId/giphy.gif)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3c5e,50:0a0e1a,100:000000&height=120&section=footer" width="100%"/>
 
