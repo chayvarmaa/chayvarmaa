@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 🚀 Aspiring Machine Learning Engineer | Data Scientist </h3>
+  <h3> 🚀 Aspiring Software Engineer </h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
