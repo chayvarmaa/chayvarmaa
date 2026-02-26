@@ -16,6 +16,7 @@
 I am a **Computer Science Graduate** with a strong foundation in software engineering and a specialized focus on **Machine Learning and Data Science**. My journey started with a B.Tech in Computer Science, followed by a **Master of Science in Computer Science from Southern Illinois University Edwardsville (SIUE)**.
 
 I thrive at the intersection of data and deployment—building models that don't just achieve high accuracy but are scalable and production-ready. Currently, I am focused on:
+-  **Software Engineering:** Always Curious to learn and build systems and applications.
 - 🤖 **MLOps:** Building end-to-end pipelines using tools like MLflow and Docker.
 - 📊 **Data Engineering:** Designing efficient ETL processes and working with Large-Scale Data.
 - 🧠 **Deep Learning:** Exploring NLP and Computer Vision to solve real-world problems.
